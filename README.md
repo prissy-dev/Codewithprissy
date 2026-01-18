@@ -1,4 +1,4 @@
-# MyFirstCommit
+# CodewithPrissy
 ### Welcome to Technology Innovation Club!!
 This repository is designed to help new members familiarize themselves with Git and GitHub by practicing common workflows such as forking, cloning, committing, and creating pull requests.
 
